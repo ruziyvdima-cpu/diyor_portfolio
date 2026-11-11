@@ -1,0 +1,6 @@
+{
+  "name": "Diyor - Texnik Portfolio",
+  "description": "Farg'onalik 9-sinf o'quvchisi Diyorning robototexnika va kiberxavfsizlik bo'yicha texnik portfoliose",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
